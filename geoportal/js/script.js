@@ -1,71 +1,65 @@
-var mymap = L.map('map', {maxZoom:20}).setView([52.02, 20.19], 13);
+var mape = L.map('map', {maxZoom:18}).setView([52.02, 20.19], 13);
 
-var OpenStreetMap = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png?{foo}', {foo: 'bar'});
-OpenStreetMap.addTo(mymap);
+var OpenStreetMap = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png');
+OpenStreetMap.addTo(mape);
+var googleSat = L.tileLayer('https://mt1.google.com/vt/lyrs=s&x={x}&y={y}&z={z}');
+var googleHyb = L.tileLayer('https://mt1.google.com/vt/lyrs=y&x={x}&y={y}&z={z}');
+var googleTer = L.tileLayer('https://mt1.google.com/vt/lyrs=p&x={x}&y={y}&z={z}');
+
+var baseMaps = {
+    "OpenStreetMap": OpenStreetMap,
+    "Google Satelite": googleSat,
+    "Google Hybrid": googleHyb,
+    "Google Terrain": googleTer
+};
 
 
-fetch('data/powiaty.geojson')
+mape.attributionControl.addAttribution('by Ad F');
+L.control.scale().addTo(mape);
+L.control.locate({
+    position: "topleft",
+    flyTo: "true",
+    keepCurrentZoomLevel: "true",
+    initialZoomLevel: "16"
+})
+.addTo(mape);
+
+let embassies;
+fetch('ambasady.geojson')
     .then(response => response.json())
     .then(data => {
-        L.geoJSON(data).addTo(mymap);
+        embassies = L.geoJSON(data, {
+            pointToLayer: function (feature, latlng) {
+                if (feature.properties && feature.properties.flag) {
+                    return L.marker(latlng, {
+                        icon: L.icon({
+                            iconUrl: feature.properties.flag,
+                            iconSize: [32, 20],
+                            iconAnchor: [16, 16],
+                            popupAnchor: [0, -16]
+                        })
+                    });
+                } else {
+                    return L.marker(latlng);
+                }
+            },
+            onEachFeature: function (feature, layer) {
+                if (feature.properties) {
+                    var popupContent = "";
+                    var header = "<h3>" + feature.properties.name + "</h3>";
+                    var address = "<p>" + feature.properties.address + "</p>";
+                    var phone = "<p> <b>tel.:</b>" + feature.properties.telefon + "</p>";
+                    popupContent += header + address + phone;
+                    layer.bindPopup(popupContent);
+                }
+            }
+        }).addTo(mape);
+
+        var overlays = {
+            "Ambasady": embassies
+        };
+
+        L.control.layers(baseMaps, overlays).addTo(mape);
     });
 
-fetch('data/fg1.geojson')
-    .then(response => response.json())
-    .then(data => {
-        L.geoJSON(data).addTo(mymap);
-    });
 
-L.Control.Facebook = L.Control.extend({
-    options: {
-    position: 'topleft',
-    url: 'https://facebook.com',
-    size: 'small',
-    lang: 'en_US',
-    layout: "button_count",
-    action: "like",
-    showFaces: "false",
-    share: "false"
-    },
-    
-    onAdd: function(map) {
-        var lang = this.options.lang;
-        (function(d, s, id) {
-            var js, fjs = d.getElementsByTagName(s)[0];
-            if (d.getElementById(id)) return;
-            js = d.createElement(s); js.id = id;
-            js.src = "//connect.facebook.net/"+lang+"/sdk.js#xfbml=1&version=v2.8&appId=112325262161655";
-            console.log(js.src);
-            fjs.parentNode.insertBefore(js, fjs);
-        }(document, 'script', 'facebook-jssdk'));
-        
-        var fb = L.DomUtil.create('div', 'fb-like');
-
-        fb.setAttribute("data-href", this.options.url);
-        fb.setAttribute("data-layout", this.options.layout);
-        fb.setAttribute("data-action", this.options.action);
-        fb.setAttribute("data-size", this.options.size)
-        fb.setAttribute("data-show-faces", this.options.showFaces);
-        fb.setAttribute("data-share", this.options.share);
-
-        return fb;
-    },
-
-    onRemove: function(map) {
-        // Nothing to do here
-    }
-});
-
-L.control.facebook = function(opts) {
-    return new L.Control.Facebook(opts);
-}
-
-// Change default options
-L.control.facebook({ 
-    position: 'topleft',
-    url: 'https://www.facebook.com/',
-    size: 'large',
-    lang: 'pl_PL'
-    }).addTo(map);
-
-    

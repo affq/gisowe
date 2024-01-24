@@ -1,0 +1,4 @@
+.leaflet-retina .leaflet-control-layers-toggle {
+    background-color: white;
+    background-image: url(images/layers.png);
+}

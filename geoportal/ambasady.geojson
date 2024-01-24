@@ -1,0 +1,1468 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "id": "1",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0717063, 52.1781326]
+        },
+        "properties": {
+          "name": "Ambasada Islamskiej Republiki Afganistanu",
+          "country": "Afganistan",
+          "flag": "flags\\afganistan.png",
+          "address": "Goplańska 1, 02-954 Warszawa",
+          "telefon": "22 885 54 10",
+          "website": "http://www.afghanembassy.com.pl/",
+          "email": "warsaw@afghanembassy.com.pl"
+        }
+      },
+      {
+        "id": "2",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [20.9612554, 52.2011352]
+        },
+        "properties": {
+          "name": "Ambasada Republiki Albanii",
+          "country": "Albania",
+          "flag": "flags\\albania.png",
+          "address": "Altowa 1, 02-386 Warszawa",
+          "telefon": "22 824 14 27",
+          "website": "http://www.ambasadat.gov.al/poland/",
+          "email": ["embassy.warsaw@mfa.gov.al", "ambasada@albania.waw.pl"]
+        }
+      },
+      {
+        "id": "3",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0208461, 52.1909945]
+        },
+        "properties": {
+          "name": "Ambasada Algierskiej Republiki Ludowo-Demokratycznej",
+          "country": "Algieria",
+          "flag": "flags\\algieria.png",
+          "address": "Krasickiego 10, 02-628 Warszawa",
+          "telefon": ["22 617 58 55","22 617 59 31"],
+          "website": "http://algerianembassy.pl/",
+          "email": ["warsaw@algerianembassy.pl", "consular@algerianembassy.pl"]
+        }
+      },
+      {
+        "id": "4",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0784344, 52.1696669]
+        },
+        "properties": {
+          "name": "Ambasada Republiki Angoli",
+          "country": "Angola",
+          "flag": "flags\\angola.png",
+          "address": "Urodzajna 12,\n 02-954 Warszawa",
+          "telefon": ["22 844 09 94","22 844 09 83"],
+          "website": "https://embangola.pl/",
+          "email": "embaixada.polonia@mirex.gov.ao"
+        }
+      },
+      {
+        "id": "5",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [20.9908988, 52.2249901]
+        },
+        "properties": {
+          "name": "Ambasada Republiki Argentyńskiej",
+          "country": "Argentyna",
+          "flag": "flags\\argentyna.png",
+          "address": "Al. Jerozolimskie 123 (10 piętro), 02-017 Warszawa",
+          "telefon": ["22 617 60 28","22 617 60 29"],
+          "website": "https://epolo.cancilleria.gob.ar/pl",
+          "email": "epolo@mrecic.gov.ar"
+        }
+      },
+      {
+        "id": "6",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0201066, 52.149676]
+        },
+        "properties": {
+          "name": "Ambasada Republiki Armenii",
+          "country": "Armenia",
+          "flag": "flags\\armenia.png",
+          "address": "Bekasów 50, 02-803 Warszawa",
+          "telefon": ["22 899 09 40-42", "508 878 332"],
+          "website": "https://poland.mfa.am/en/",
+          "email": ["armpolandembassy@mfa.am", "secretariat@armenia.internetdsl.pl"]
+        }
+      },
+      {
+        "id": "7",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [20.9983591, 52.2326855]
+        },
+        "properties": {
+          "name": "Ambasada Związku Australijskiego",
+          "country": "Australia",
+          "flag": "flags\\australia.png",
+          "address": "Rondo ONZ 1, 8 piętro, 00-124 Warszawa",
+          "telefon": "22 521 34 44",
+          "website": "https://poland.embassy.gov.au/",
+          "email": "ambasada.australia@dfat.gov.au"
+        }
+      },
+      {
+        "id": "8",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0347524, 52.2073723]
+        },
+        "properties": {
+          "name": "Ambasada Republiki Austrii",
+          "country": "Austria",
+          "flag": "flags\\austria.png",
+          "address": "Gagarina 34, 00-748 Warszawa",
+          "telefon": "22 841 00 81-84",
+          "website": "https://www.bmeia.gv.at/pl/ambasada-austrii-warszawa",
+          "email": "warschau-ob@bmeia.gv.at"
+        }
+      },
+      {
+        "id": "9",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0531558, 52.2308282]
+        },
+        "properties": {
+          "name": "Ambasada Republiki Azerbejdżanu",
+          "country": "Azerbejdżan",
+          "flag": "flags\\azerbejdzan.png",
+          "address": "Zwycięzców 12, 03-941 Warszawa",
+          "telefon": "22 617 67 28",
+          "website": "https://warsaw.mfa.gov.az/pl",
+          "email": "warsaw@mission.mfa.gov.az"
+        }
+      },
+      {
+        "id": "10",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0597122, 52.1756675]
+        },
+        "properties": {
+          "name": "Ambasada Ludowej Republiki Bangladeszu",
+          "country": "Bangladesz",
+          "flag": "flags\\bangladesh.png",
+          "address": "Wiertnicza 107, 02-952 Warszawa",
+          "telefon": "22 55 00 610",
+          "website": "https://warsaw.mofa.gov.bd/",
+          "email": "mission.warsaw@mofa.gov.bd"
+        }
+      },
+      {
+        "id": "11",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0814255, 52.1718441]
+        },
+        "properties": {
+          "name": "Ambasada Republiki Białorusi",
+          "country": "Białoruś",
+          "flag": "flags\\belarus.png",
+          "address": "Wiertnicza 58, 02-952 Warszawa",
+          "telefon": ["22 742 09 90", "22 842 52 02"],
+          "website": "http://www.poland.mfa.gov.by/",
+          "email": "poland@mfa.gov.by"
+        }
+      },
+      {
+        "id": "11",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0032928, 52.2436175]
+        },
+        "properties": {
+          "name": "Ambasada Królestwa Belgii",
+          "country": "Belgia",
+          "flag": "flags\\belgium.png",
+          "address": "Senatorska 34, 00-095 Warszawa",
+          "telefon": "22 551 28 00",
+          "website": "https://poland.diplomatie.belgium.be/pl",
+          "email": ["warsaw@diplobel.fed.be", "consulate.warsaw@diplobel.fed.be"]
+        }
+      },
+      {
+        "id": "12",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0027479, 52.1919998]
+        },
+        "properties": {
+          "name": "Ambasada Bośni i Hercegowiny",
+          "country": "Bośnia i Hercegowina",
+          "flag": "flags\\bosnia.png",
+          "address": "Krasickiego 35, 02-611 Warszawa",
+          "telefon": "22 856 99 35",
+          "website": "brak",
+          "email": "amb.varsava@mvp.gov.ba"
+        }
+      },
+      {
+        "id": "13",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.057048, 52.226682]
+        },
+        "properties": {
+          "name": "Ambasada Federacyjnej Republiki Brazylii",
+          "country": "Brazylia",
+          "flag": "flags\\brazil.png",
+          "address": "Bajońska 15, 03-963 Warszawa",
+          "telefon": ["22 617 48 00", "22 617 05 00", "22 617 32 60"],
+          "website": "https://www.gov.br/mre/pt-br/embaixada-varsovia",
+          "email": "brasemb.varsovia@itamaraty.gov.br"
+        }
+      },
+      {
+        "id": "14",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.022838, 52.2250532]
+        },
+        "properties": {
+          "name": "Ambasada Republiki Bułgarii",
+          "country": "Bułgaria",
+          "flag": "flags\\bulgaria.png",
+          "address": "Al. Ujazdowskie 33/35, 00-540 Warszawa",
+          "telefon": "22 629 40 71-72",
+          "website": "https://www.mfa.bg/en/embassies/poland",
+          "email": "embassy.warsaw@mfa.bg"
+        }
+      },
+      {
+        "id": "15",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0620181, 52.1801318]
+        },
+        "properties": {
+          "name": "Ambasada Republiki Chile",
+          "country": "Chile",
+          "flag": "flags\\chile.png",
+          "address": "Okrężna 62, 02-925 Warszawa",
+          "telefon": "22 858 23 30-31",
+          "website": "https://www.chile.gob.cl/polonia/en",
+          "email": "echile.polonia@minrel.gob.cl"
+        }
+      },
+      {
+        "id": "16",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0011869, 52.2505911]
+        },
+        "properties": {
+          "name": "Ambasada Chińskiej Republiki Ludowej",
+          "country": "Chiny",
+          "flag": "flags\\china.png",
+          "address": "Bonifraterska 1, 00-203 Warszawa",
+          "telefon": "22 831 38 36",
+          "website": "http://www.chinaembassy.org.pl/",
+          "email": "consular@chinaembassy.org.pl"
+        }
+      },
+      {
+        "id": "17",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0555029, 52.2319653]
+        },
+        "properties": {
+          "name": "Ambasada Republiki Kolumbii",
+          "country": "Kolumbia",
+          "flag": "flags\\colombia.png",
+          "address": "Zwycięzców 29, 03-936 Warszawa",
+          "telefon": ["22 617 09 73", "22 617 71 57"],
+          "website": "http://polonia.embajada.gov.co/",
+          "email": "evarsovia@cancilleria.gov.co"
+        }
+      },
+      {
+        "id": "18",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0235981, 52.1322162]
+        },
+        "properties": {
+          "name": "Ambasada Demokratycznej Republiki Konga",
+          "country": "Demokratyczna Republika Konga",
+          "flag": "flags\\drcongo.png",
+          "address": "Bogatki 3, 02-837 Warszawa",
+          "telefon": "22 645 85 18",
+          "website": "secretariat@ambassaderdcpologne.com",
+          "email": "http://www.ambassaderdcpologne.com/"
+        }
+      },
+      {
+        "id": "19",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0195786, 52.192775]
+        },
+        "properties": {
+          "name": "Ambasada Republiki Chorwacji",
+          "country": "Chorwacja",
+          "flag": "flags\\croatia.png",
+          "address": "Ignacego Krasickiego 25, 02-611 Warszawa",
+          "telefon": ["22 844 23 93", "22 844 39 94"],
+          "website": "https://mvep.gov.hr/pl/pl",
+          "email": "croemb.warszawa@mvep.hr"
+        }
+      },
+      {
+        "id": "20",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [20.9964126, 52.1842933]
+        },
+        "properties": {
+          "name": "Ambasada Republiki Kuby",
+          "country": "Kuba",
+          "flag": "flags\\cuba.png",
+          "address": "Domaniewska 48 , 00-672 Warszawa",
+          "telefon": ["22 848 17 15", "22 848 22 31"],
+          "website": "http://misiones.minrex.gob.cu/es/polonia/embajada-de-la-republica-de-cuba-en-polonia",
+          "email": "embacuba@embacuba.pl"
+        }
+      },
+      {
+        "id": "21",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0115159, 52.2011052]
+        },
+        "properties": {
+          "name": "Ambasada Republiki Cypryjskiej",
+          "country": "Cypr",
+          "flag": "flags\\cyprus.png",
+          "address": " Jarosława Dąbrowskiego 70, 02-561 Warszawa",
+          "telefon": "22 844 45 77",
+          "website": "http://www.mfa.gov.cy/embassywarsaw",
+          "email": "warsawembassy@mfa.gov.cy"
+        }
+      },
+      {
+        "id": "22",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0211954, 52.221882]
+        },
+        "properties": {
+          "name": "Ambasada Republiki Czeskiej",
+          "country": "Czechy",
+          "flag": "flags\\czechia.png",
+          "address": "Koszykowa 18, 00-555 Warszawa",
+          "telefon": "22 525 18 50",
+          "website": "https://mzv.gov.cz/warsaw/pl/",
+          "email": "warsaw@embassy.mzv.cz"
+        }
+      },
+      {
+        "id": "23",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0068325, 52.2380116]
+        },
+        "properties": {
+          "name": "Ambasada Królestwa Danii",
+          "country": "Dania",
+          "flag": "flags\\denmark.png",
+          "address": "Marszałkowska 142, 00-061 Warszawa",
+          "telefon": "22 565 29 00",
+          "website": "https://polen.um.dk/pl",
+          "email": "wawamb@um.dk"
+        }
+      },
+      {
+        "id": "24",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.063663, 52.2262612]
+        },
+        "properties": {
+          "name": "Ambasada Arabskiej Republiki Egiptu",
+          "country": "Egipt",
+          "flag": "flags\\egypt.png",
+          "address": "Alzacka 18 A, 03-972 Warszawa",
+          "telefon": "22 590 66 00",
+          "website": "-",
+          "email": "embassyofegyptwarsaw@hotmail.com"
+        }
+      },
+      {
+        "id": "25",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [20.9993246, 52.1932192]
+        },
+        "properties": {
+          "name": "Ambasada Republiki Estońskiej",
+          "country": "Estonia",
+          "flag": "flags\\estonia.png",
+          "address": "Karwińska 1, 02-639 Warszawa",
+          "telefon": "22 881 18 10-11",
+          "website": "https://warsaw.mfa.ee/",
+          "email": "embassy.warsaw@mfa.ee"
+        }
+      },
+      {
+        "id": "26",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0222766, 52.2229087]
+        },
+        "properties": {
+          "name": "Ambasada Republiki Finlandii",
+          "country": "Finlandia",
+          "flag": "flags\\finland.png",
+          "address": "Chopina 4/8, 00-559 Warszawa",
+          "telefon": "22 598 95 00",
+          "website": "https://finlandabroad.fi/web/pol/frontpage",
+          "email": "sanomat.var@formin.fi"
+        }
+      },
+      {
+        "id": "27",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.026008, 52.223983]
+        },
+        "properties": {
+          "name": "Ambasada Republiki Francuskiej",
+          "country": "Francja",
+          "flag": "flags\\france.png",
+          "address": "Piękna 1, 00-477 Warszawa",
+          "telefon": "22 529 30 00",
+          "website": "https://pl.ambafrance.org/-Wersja-polska-",
+          "email": "consulat@ambafrance-pl.org"
+        }
+      },
+      {
+        "id": "28",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0525828, 52.2288126]
+        },
+        "properties": {
+          "name": "Ambasada Gruzji",
+          "country": "Gruzja",
+          "flag": "flags\\georgia.png",
+          "address": "Kryniczna 2, 03-934 Warszawa",
+          "telefon": "22 616 62 21",
+          "website": "http://www.poland.mfa.gov.ge/",
+          "email": "warsaw.emb@mfa.gov.ge"
+        }
+      },
+      {
+        "id": "29",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0286307, 52.2235884]
+        },
+        "properties": {
+          "name": "Ambasada Republiki Federalnej Niemiec",
+          "country": "Niemcy",
+          "flag": "flags\\germany.png",
+          "address": "Jazdów 12, 00-467 Warszawa",
+          "telefon": "22 584 17 00",
+          "website": "https://polen.diplo.de/pl-pl/01-vertretungen/01-1-die-botschaft",
+          "email": "warszawa@wars.diplo.de"
+        }
+      },
+      {
+        "id": "30",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.032334, 52.2247266]
+        },
+        "properties": {
+          "name": "Ambasada Republiki Greckiej",
+          "country": "Grecja",
+          "flag": "flags\\greece.png",
+          "address": "Górnośląska 35, 00-432 Warszawa",
+          "telefon": "22 622 94 60-61",
+          "website": "https://www.mfa.gr/missionsabroad/en/poland.html",
+          "email": "gremb.war@mfa.gr"
+        }
+      },
+      {
+        "id": "31",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0015359, 52.2336531]
+        },
+        "properties": {
+          "name": "Ambasada Republiki Gwatemali",
+          "country": "Gwatemala",
+          "flag": "flags\\guatemala.png",
+          "address": "Emili Plater 53 (piętro 21), 00-113 Warszawa",
+          "telefon": "22 375 98 70",
+          "website": "-",
+          "email": "embpolonia@minex.gob.gt"
+        }
+      },
+      {
+        "id": "32",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0223345, 52.2149933]
+        },
+        "properties": {
+          "name": "Nuncjatura Apostolska",
+          "country": "Watykan",
+          "flag": "flags\\vatican.png",
+          "address": " Jana Chrystiana Szucha 12, 00-582 Warszawa",
+          "telefon": "22 596 93 20",
+          "website": "https://nuncjatura.pl/",
+          "email": "nuncjatura@episkopat.pl"
+        }
+      },
+      {
+        "id": "33",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0149476, 52.2260088]
+        },
+        "properties": {
+          "name": "Ambasada Węgier",
+          "country": "Węgry",
+          "flag": "flags\\hungary.png",
+          "address": "Ks. Ignacego Skorupki 5, 00-546 Warszawa",
+          "telefon": "22 628 44 51-54",
+          "website": "https://varso.mfa.gov.hu/pol",
+          "email": "mission.vao@mfa.gov.hu"
+        }
+      },
+      {
+        "id": "34",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0149476, 52.2260088]
+        },
+        "properties": {
+          "name": "Ambasada Republiki Islandii",
+          "country": "Islandia",
+          "flag": "flags\\iceland.png",
+          "address": "Al. Armii Ludowej 26 (budynek Focus), 00-609 Warszawa",
+          "telefon": "519 190 373",
+          "website": "https://www.government.is/other-languages/ambasada-islandii-w-warszawie/o-ambasadzie/",
+          "email": "warsaw@utn.is"
+        }
+      },
+      {
+        "id": "35",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0375665, 52.217741]
+        },
+        "properties": {
+          "name": "Ambasada Republiki Indii",
+          "country": "Indie",
+          "flag": "flags\\india.png",
+          "address": "Myśliwiecka 2, 02-459 Warszawa",
+          "telefon": "22 540 00 00",
+          "website": "https://www.indianembassywarsaw.gov.in/",
+          "email": "amboffice.warsaw@mea.gov.in"
+        }
+      },
+      {
+        "id": "36",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0475352, 52.2365455]
+        },
+        "properties": {
+          "name": "Ambasada Republiki Indonezji",
+          "country": "Indonezja",
+          "flag": "flags\\indonesia.png",
+          "address": "Estońska 3/5, 03-903 Warszawa",
+          "telefon": ["22 617 51 79", "22 617 51 08"],
+          "website": "https://www.indianembassywarsaw.gov.in/",
+          "email": ["warsawa.kbri@kemlu.go.id", "info@indonesianembassy.pl"]
+        }
+      },
+      {
+        "id": "37",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0554148, 52.2344348]
+        },
+        "properties": {
+          "name": "Ambasada Islamskiej Republiki Iranu",
+          "country": "Iran",
+          "flag": "flags\\iran.png",
+          "address": "Królowej Aldony 22, 03-928 Warszawa",
+          "telefon": ["22 617 15 85", "22 617 42 93"],
+          "website": "https://warsaw.mfa.ir/en",
+          "email": "secretary@iranemb.pl"
+        }
+      },
+      {
+        "id": "38",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0486406, 52.2324008]
+        },
+        "properties": {
+          "name": "Ambasada Republiki Iraku",
+          "country": "Irak",
+          "flag": "flags\\iraq.png",
+          "address": "Dąbrowiecka 9 A, 03-932 Warszawa",
+          "telefon": ["22 617 49 11", "22 617 57 73", "22 617 28 12"],
+          "website": "https://mofa.gov.iq/warsaw/",
+          "email": "-"
+        }
+      },
+      {
+        "id": "39",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.019415, 52.2301978]
+        },
+        "properties": {
+          "name": "Ambasada Irlandii",
+          "country": "Irlandia",
+          "flag": "flags\\ireland.png",
+          "address": "Mysia 5 (6. piętro), 00-496 Warszawa",
+          "telefon": "22 564 22 00",
+          "website": "https://www.dfa.ie/irish-embassy/poland/",
+          "email": "warsawembassy@dfa.ie"
+        }
+      },
+      {
+        "id": "40",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [20.9989882, 52.2186449]
+        },
+        "properties": {
+          "name": "Ambasada Państwa Izrael",
+          "country": "Izrael",
+          "flag": "flags\\israel.png",
+          "address": "Krzywickiego 24, 02-078 Warszawa",
+          "telefon": "22 564 22 00",
+          "website": "https://embassies.gov.il/warsaw/Pages/default.aspx",
+          "email": "publicaffairs@warsaw.mfa.gov.il"
+        }
+      },
+      {
+        "id": "41",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0087264, 52.2373031]
+        },
+        "properties": {
+          "name": "Ambasada Republiki Włoskiej",
+          "country": "Włochy",
+          "flag": "flags\\italy.png",
+          "address": "pl. Dąbrowskiego 6, 00-055 Warszawa",
+          "telefon": "22 826 34 71-74",
+          "website": "https://ambvarsavia.esteri.it/pl/",
+          "email": "ambasciata.varsavia@esteri.it"
+        }
+      },
+      {
+        "id": "42",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0393543, 52.2172707]
+        },
+        "properties": {
+          "name": "Ambasada Japonii",
+          "country": "Japonia",
+          "flag": "flags\\japan.png",
+          "address": "Szwoleżerów 8, 00-464 Warszawa",
+          "telefon": "22 696 50 00",
+          "website": "https://www.pl.emb-japan.go.jp/itprtop_pl/index.html",
+          "email": "ons@wr.mofa.go.jp"
+        }
+      },
+      {
+        "id": "43",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0759008, 52.1688772]
+        },
+        "properties": {
+          "name": "Ambasada Republiki Kazachstanu",
+          "country": "Kazachstan",
+          "flag": "flags\\kazakhstan.png",
+          "address": " Królowej Marysieńki 14, 02-954 Warszawa",
+          "telefon": "22 642 53 88",
+          "website": "https://www.gov.kz/memleket/entities/mfa-warsaw?lang=pl",
+          "email": "warsaw@mfa.kz"
+        }
+      },
+      {
+        "id": "44",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0759008, 52.1688772]
+        },
+        "properties": {
+          "name": "Ambasada Koreańskiej Republiki Ludowo-Demokratycznej",
+          "country": "Korea Północna",
+          "flag": "flags\\nkorea.png",
+          "address": "Bobrowiecka 1 A, 00-728 Warszawa",
+          "telefon": "22 840 58 13",
+          "website": "https://www.krld.pl/krld/ambasady",
+          "email": "korembpl@yahoo.com"
+        }
+      },
+      {
+        "id": "46",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0411791, 52.2168205]
+        },
+        "properties": {
+          "name": "Ambasada Republiki Korei",
+          "country": "Korea Południowa",
+          "flag": "flags\\skorea.png",
+          "address": "Szwoleżerów 6, 00-464 Warszawa",
+          "telefon": "22 559 29 00",
+          "website": "https://overseas.mofa.go.kr/pl-pl/index.do",
+          "email": "koremb_waw@mofa.go.kr"
+        }
+      },
+      {
+        "id": "47",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0198823, 52.1948935]
+        },
+        "properties": {
+          "name": "Ambasada Państwa Kuwejt",
+          "country": "Kuwejt",
+          "flag": "flags\\kuwait.png",
+          "address": "Krasickiego 26, 02-611 Warszawa",
+          "telefon": ["22 419 97 80", "22 419 97 86"],
+          "website": "-",
+          "email": "warsaw@mofa.gov.kw"
+        }
+      },
+      {
+        "id": "48",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0542097, 52.2342333]
+        },
+        "properties": {
+          "name": "Ambasada Republiki Łotewskiej",
+          "country": "Łotwa",
+          "flag": "flags\\latvia.png",
+          "address": "Królowej Aldony 19, 03-928 Warszawa",
+          "telefon": "22 617 11 05",
+          "website": "https://www2.mfa.gov.lv/pl/",
+          "email": "embassy.poland@mfa.gov.lv"
+        }
+      },
+      {
+        "id": "49",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0147812, 52.2075526]
+        },
+        "properties": {
+          "name": "Ambasada Republiki Libańskiej",
+          "country": "Liban",
+          "flag": "flags\\lebanon.png",
+          "address": "Starościńska 1 B m. 10-11, 02-516 Warszawa",
+          "telefon": ["22 844 50 65", "22 646 35 46"],
+          "website": "http://pl.lebanon.pl/",
+          "email": "embassy@lebanon.com.pl"
+        }
+      },
+      {
+        "id": "50",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0179249, 52.1376134]
+        },
+        "properties": {
+          "name": "Ambasada Państwa Libia",
+          "country": "Libia",
+          "flag": "flags\\libya.png",
+          "address": "Żołny 26/26 B, 02-815 Warszawa",
+          "telefon": "22 56 66 509-510",
+          "website": "-",
+          "email": "libyanambassy2012@gmail.com"
+        }
+      },
+      {
+        "id": "51",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0233794, 52.2258169]
+        },
+        "properties": {
+          "name": "Ambasada Republiki Litewskiej",
+          "country": "Litwa",
+          "flag": "flags\\lithuania.png",
+          "address": "Al. Ujazdowskie 14, 00-478 Warszawa",
+          "telefon": ["22 625 34 10", "22 625 33 68"],
+          "website": "https://pl.mfa.lt/pl/pl/",
+          "email": "amb.pl@urm.lt"
+        }
+      },
+      {
+        "id": "52",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.023249, 52.2077308]
+        },
+        "properties": {
+          "name": "Ambasada Wielkiego Księstwa Luksemburga",
+          "country": "Luksemburg",
+          "flag": "flags\\luxembourg.png",
+          "address": "Słoneczna 15, 00-789 Warszawa",
+          "telefon": "22 507 86 50",
+          "website": "https://varsovie.mae.lu/en.html",
+          "email": "varsovie.amb@mae.etat.lu"
+        }
+      },
+      {
+        "id": "53",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0721007, 52.17251]
+        },
+        "properties": {
+          "name": "Ambasada Republiki Macedonii Północnej",
+          "country": "Macedonia Północna",
+          "flag": "flags\\northmacedonia.png",
+          "address": "Królowej Marysieńki 40, 02-954 Warszawa",
+          "telefon": "22 651 72 91",
+          "website": "-",
+          "email": "warsaw@mfa.gov.mk"
+        }
+      },
+      {
+        "id": "54",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [20.9960044, 52.2282292]
+        },
+        "properties": {
+          "name": "Ambasada Malezji",
+          "country": "Malezja",
+          "flag": "flags\\malaysia.png",
+          "address": "Chmielna 73 (piętro 2.), 00-801 Warsaw",
+          "telefon": ["22 375 99 30", "22 617 44 13"],
+          "website": "https://www.kln.gov.my/web/pol_warsaw",
+          "email": "waw.receptionist@kln.gov.my"
+        }
+      },
+      {
+        "id": "55",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0048682, 52.206885]
+        },
+        "properties": {
+          "name": "Ambasada Republiki Malty",
+          "country": "Malta",
+          "flag": "flags\\malta.png",
+          "address": "Wiśniowa 40/4, 02-520 Warszawa",
+          "telefon": "22 646 46 39",
+          "website": "-",
+          "email": "maltaembassy.warsaw@gov.mt"
+        }
+      },
+      {
+        "id": "56",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [20.9908541, 52.2245148]
+        },
+        "properties": {
+          "name": "Ambasada Meksykańskich Stanów Zjednoczonych",
+          "country": "Meksyk",
+          "flag": "flags\\mexico.png",
+          "address": "Al. Jerozolimskie 123a (20. piętro), 02-017 Warszawa",
+          "telefon": "22 311 29 00",
+          "website": "https://embamex.sre.gob.mx/polonia/index.php",
+          "email": "info@emexico.pl"
+        }
+      },
+      {
+        "id": "57",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0346782, 52.1866528]
+        },
+        "properties": {
+          "name": "Ambasada Republiki Mołdawii",
+          "country": "Mołdawia",
+          "flag": "flags\\moldova.png",
+          "address": "Imielińska 1, 02-710 Warszawa",
+          "telefon": "22 646 20 99",
+          "website": "varsovia@mfa.gov.md",
+          "email": "info@emexico.pl"
+        }
+      },
+      {
+        "id": "58",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0074876, 52.2072974]
+        },
+        "properties": {
+          "name": "Ambasada Mongolii",
+          "country": "Mongolia",
+          "flag": "flags\\mongolia.png",
+          "address": "Rejtana 15/16, 02-516 Warszawa",
+          "telefon": "22 849 93 91",
+          "website": "https://ambasadamongolii.pl/",
+          "email": "mongemb@ambasadamongolii.pl"
+        }
+      },
+      {
+        "id": "59",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0128903, 52.2261817]
+        },
+        "properties": {
+          "name": "Ambasada Czarnogóry",
+          "country": "Czarnogóra",
+          "flag": "flags\\montenegro.png",
+          "address": "Al. Ujazdowskie 41, 00-540 Warszawa",
+          "telefon": "22 375 97 45",
+          "website": "-",
+          "email": "poland@mfa.gov.me"
+        }
+      },
+      {
+        "id": "60",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0014571, 52.2009811]
+        },
+        "properties": {
+          "name": "Ambasada Królestwa Marokańskiego",
+          "country": "Maroko",
+          "flag": "flags\\morocco.png",
+          "address": "Dąbrowskiego 72, 02-561 Warszawa",
+          "telefon": "22 849 63 41",
+          "website": "-",
+          "email": "embassy@ambmaroc.pl"
+        }
+      },
+      {
+        "id": "61",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0306435, 52.2183662]
+        },
+        "properties": {
+          "name": "Ambasada Królestwa Niderlandów",
+          "country": "Holandia",
+          "flag": "flags\\nederland.png",
+          "address": "Kawalerii 10, 00-468 Warszawa",
+          "telefon": "22 559 12 00",
+          "website": "-",
+          "email": "war@minbuza.nl"
+        }
+      },
+      {
+        "id": "62",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0211444, 52.2279206]
+        },
+        "properties": {
+          "name": "Ambasada Nowej Zelandii",
+          "country": "Nowa Zelandia",
+          "flag": "flags\\newzealand.png",
+          "address": " Al. Ujazdowskie 51, 00-536 Warszawa",
+          "telefon": "22 521 05 00",
+          "website": "https://www.mfat.govt.nz/en/countries-and-regions/europe/poland/new-zealand-embassy/",
+          "email": "nzwsw@nzembassy.pl"
+        }
+      },
+      {
+        "id": "63",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0695115, 52.1710558]
+        },
+        "properties": {
+          "name": "Ambasada Federalnej Republiki Nigerii",
+          "country": "Nigeria",
+          "flag": "flags\\nigeria.png",
+          "address": "Kosiarzy 22 B, C, 02-953 Warszawa",
+          "telefon": ["22 651 53 05", "22 651 53 48"],
+          "website": "-",
+          "email": "nigeria.warsaw@foreignaffairs.gov.ng"
+        }
+      },
+      {
+        "id": "64",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [20.9975104, 52.2182127]
+        },
+        "properties": {
+          "name": "Ambasada Królestwa Norwegii",
+          "country": "Norwegia",
+          "flag": "flags\\norway.png",
+          "address": "Al. Armii Ludowej 26, 00-609 Warszawa",
+          "telefon": "22 696 40 30",
+          "website": "https://www.norway.no/pl/poland/",
+          "email": "emb.warsaw@mfa.no"
+        }
+      },
+      {
+        "id": "65",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.071028, 52.1712101]
+        },
+        "properties": {
+          "name": "Ambasada Islamskiej Republiki Pakistanu",
+          "country": "Pakistan",
+          "flag": "flags\\pakistan.png",
+          "address": "Wiertnicza 63, 02-952 Warszawa",
+          "telefon": ["22 849 48 08", "22 849 49 38"],
+          "website": "-",
+          "email": "parepwarsaw@gmail.com"
+        }
+      },
+      {
+        "id": "66",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0275397, 52.1884212]
+        },
+        "properties": {
+          "name": "Ambasada Palestyny",
+          "country": "Palestyna",
+          "flag": "flags\\palestine.png",
+          "address": "Idzikowskiego 7/9, 02-704 Warszawa",
+          "telefon": "22 849 77 72",
+          "website": "https://www.palestine.pl/",
+          "email": "info@palestine.pl"
+        }
+      },
+      {
+        "id": "67",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0650812, 52.1723634]
+        },
+        "properties": {
+          "name": "Ambasada Republiki Panamy",
+          "country": "Panama",
+          "flag": "flags\\panama.png",
+          "address": "Królewicza Jakuba 33, 02-956 Warszawa",
+          "telefon": "22 642 21 43",
+          "website": "-",
+          "email": "embapanama@gmail.com"
+        }
+      },
+      {
+        "id": "68",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0065728, 52.2075588]
+        },
+        "properties": {
+          "name": "Ambasada Republiki Peru",
+          "country": "Peru",
+          "flag": "flags\\peru.png",
+          "address": "Starościńska 1 m. 3, 02-516 Warszawa",
+          "telefon": "22 646 88 06-7",
+          "website": "https://www.gob.pe/embajada-del-peru-en-polonia/",
+          "email": "embperpl@perupol.pl"
+        }
+      },
+      {
+        "id": "69",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0743231, 52.1726543]
+        },
+        "properties": {
+          "name": "Ambasada Republiki Filipin",
+          "country": "Filipiny",
+          "flag": "flags\\philippines.png",
+          "address": "Lentza 11, 00-956 Warszawa",
+          "telefon": "22 490 20 25",
+          "website": "https://warsawpe.dfa.gov.ph/",
+          "email": "warsaw.pe@dfa.gov.ph"
+        }
+      },
+      {
+        "id": "70",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0559777, 52.2245884]
+        },
+        "properties": {
+          "name": "Ambasada Republiki Portugalskiej",
+          "country": "Portugalia",
+          "flag": "flags\\portugal.png",
+          "address": "Ateńska 37, 03-978 Warszawa",
+          "telefon": "22 511 10 10-12",
+          "website": "https://varsovia.embaixadaportugal.mne.gov.pt/pl/",
+          "email": "varsovia@mne.pt"
+        }
+      },
+      {
+        "id": "71",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0147661, 52.2294949]
+        },
+        "properties": {
+          "name": "Ambasada Państwa Katar",
+          "country": "Katar",
+          "flag": "flags\\qatar.png",
+          "address": "Książęca 15, 00-498 Warszawa",
+          "telefon": "22 622 88 88",
+          "website": "https://warsaw.embassy.qa/pl",
+          "email": "warsaw@mofa.gov.qa"
+        }
+      },
+      {
+        "id": "72",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0195112, 52.2237398]
+        },
+        "properties": {
+          "name": "Ambasada Rumunii",
+          "country": "Rumunia",
+          "flag": "flags\\romania.png",
+          "address": "Chopina 10, 00-559 Warszawa",
+          "telefon": ["22 628 05 08", "22 621 59 83"],
+          "website": "https://varsovia.mae.ro/en",
+          "email": "varsovia@mae.ro"
+        }
+      },
+      {
+        "id": "73",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0239899, 52.2105483]
+        },
+        "properties": {
+          "name": "Ambasada Federacji Rosyjskiej",
+          "country": "Rosja",
+          "flag": "flags\\russia.png",
+          "address": "Belwederska 49, 00-761 Warszawa",
+          "telefon": ["22 621 34 53", "22 621 55 75", "22 621 59 54"],
+          "website": "https://poland.mid.ru/pl/",
+          "email": "rusembpol@mid.ru"
+        }
+      },
+      {
+        "id": "74",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [20.9978415, 52.1953378]
+        },
+        "properties": {
+          "name": "Ambasada Republiki Rwandy",
+          "country": "Rwanda",
+          "flag": "flags\\rwanda.png",
+          "address": "Karwińskiej 21, 02-639 Warszawa",
+          "telefon": "22 102 65 70",
+          "website": "https://www.rwandainpoland.gov.rw/pl",
+          "email": "ambawarsaw@minaffet.gov.rw"
+        }
+      },
+      {
+        "id": "75",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0817184, 52.1693852]
+        },
+        "properties": {
+          "name": "Ambasada Królestwa Arabii Saudyjskiej",
+          "country": "Arabia Saudyjska",
+          "flag": "flags\\saudiarabia.png",
+          "address": "Wiertnicza 30, 02-952 Warszawa",
+          "telefon": "22 160 50 00",
+          "website": "https://embassies.mofa.gov.sa/sites/poland/EN/Pages/default.aspx",
+          "email": "plemb@mofa.gov.sa"
+        }
+      },
+      {
+        "id": "76",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0875694, 52.1677173]
+        },
+        "properties": {
+          "name": "Ambasada Republiki Senegalu",
+          "country": "Senegal",
+          "flag": "flags\\senegal.png",
+          "address": "Janczarów 2B, 02-960 Warszawa",
+          "telefon": "22 651 60 36",
+          "website": "-",
+          "email": "ambasada.senegalu@gmail.com"
+        }
+      },
+      {
+        "id": "77",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0197479, 52.2216932]
+        },
+        "properties": {
+          "name": "Ambasada Republiki Serbii",
+          "country": "Serbia",
+          "flag": "flags\\serbia.png",
+          "address": "Al. Róż 5, 00-556 Warszawa",
+          "telefon": ["22 628 51 61", "22 625 60 41"],
+          "website": "http://www.warsaw.mfa.gov.rs/pol/",
+          "email": "embassy.warsaw@mfa.rs "
+        }
+      },
+      {
+        "id": "78",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0196321, 52.2168629]
+        },
+        "properties": {
+          "name": "Ambasada Republiki Słowackiej",
+          "country": "Słowacja",
+          "flag": "flags\\slovakia.png",
+          "address": "Litewska 6, 00-581 Warszawa",
+          "telefon": "22 525 81 10",
+          "website": "https://mzv.sk/web/varsava-pl",
+          "email": "emb.warsaw@mzv.sk"
+        }
+      },
+      {
+        "id": "79",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0215579, 52.2159126]
+        },
+        "properties": {
+          "name": "Ambasada Republiki Słowenii",
+          "country": "Słowenia",
+          "flag": "flags\\slovenia.png",
+          "address": "Al. Jana Chrystiana Szucha 19 (4. piętro), 00-580 Warszawa",
+          "telefon": ["22 849 82 82", "22 849 84 84"],
+          "website": "https://www.gov.si/en/representations/embassy-warsaw/",
+          "email": "sloembassy.warsaw@gov.si"
+        }
+      },
+      {
+        "id": "80",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.010602, 52.2230736]
+        },
+        "properties": {
+          "name": "Ambasada Republiki Południowej Afryki",
+          "country": "Republika Południowej Afryki",
+          "flag": "flags\\southafrica.png",
+          "address": "Koszykowa 54 (6. piętro), 00-675 Warszawa",
+          "telefon": ["22 622 10 05", "22 622 10 31"],
+          "website": "https://dirco1.azurewebsites.net/warsaw/",
+          "email": "warsaw.political@dirco.gov.za"
+        }
+      },
+      {
+        "id": "81",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0354843, 52.2184436]
+        },
+        "properties": {
+          "name": "Ambasada Królestwa Hiszpanii",
+          "country": "Hiszpania",
+          "flag": "flags\\spain.png",
+          "address": "Myśliwiecka 4, 00-459 Warszawa",
+          "telefon": ["22 622 42 50", "22 583 40 00", "22 583 40 01"],
+          "website": "https://www.exteriores.gob.es/Embajadas/varsovia/pl/Embajada/Paginas/Embajador.aspx",
+          "email": "emb.varsovia.info@maec.es"
+        }
+      },
+      {
+        "id": "82",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0110205, 52.1816625]
+        },
+        "properties": {
+          "name": "Ambasada Demokratyczno-Socjalistycznej Republiki Sri Lanki",
+          "country": "Sri Lanka",
+          "flag": "flags\\srilanka.png",
+          "address": "Wiertnicza 151, 02-952 Warszawa",
+          "telefon": "22 853 88 96-97",
+          "website": "https://srilankaembassy.com.pl/",
+          "email": "slemb.warsaw@mfa.gov.lk"
+        }
+      },
+      {
+        "id": "83",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0227364, 52.2135136]
+        },
+        "properties": {
+          "name": "Ambasada Królestwa Szwecji",
+          "country": "Szwecja",
+          "flag": "flags\\sweden.png",
+          "address": "Bagatela 3, 00-585 Warszawa",
+          "telefon": "22 640 89 00",
+          "website": "https://www.swedenabroad.se/pl/embassies/polska-warszawa/",
+          "email": "ambassaden.warszawa@gov.se"
+        }
+      },
+      {
+        "id": "84",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.020989, 52.2240709]
+        },
+        "properties": {
+          "name": "Ambasada Konfederacji Szwajcarskiej",
+          "country": "Szwajcaria",
+          "flag": "flags\\switzerland.png",
+          "address": "Al. Ujazdowskie 27, 00-540 Warszawa",
+          "telefon": "22 628 04 81-82",
+          "website": "https://www.eda.admin.ch/countries/poland/pl/home/przedstawicielstwa/ambasada-warszawie.html",
+          "email": "warsaw@eda.admin.ch"
+        }
+      },
+      {
+        "id": "85",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0157721, 52.177668]
+        },
+        "properties": {
+          "name": "Ambasada Syryjskiej Republiki Arabskiej",
+          "country": "Syria",
+          "flag": "flags\\syria.png",
+          "address": "Świeradowska 38 a, 02-662 Warszawa",
+          "telefon": ["22 849 14 56", "22 848 48 09"],
+          "website": "-",
+          "email": "syrianembwarsaw@gmail.com"
+        }
+      },
+      {
+        "id": "86",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0157721, 52.177668]
+        },
+        "properties": {
+          "name": "Ambasada Syryjskiej Republiki Arabskiej",
+          "country": "Syria",
+          "flag": "flags\\austria.png",
+          "address": "Świeradowska 38 a, 02-662 Warszawa",
+          "telefon": ["22 849 14 56", "22 848 48 09"],
+          "website": "-",
+          "email": "syrianembwarsaw@gmail.com"
+        }
+      }
+    ]
+  }
+  
