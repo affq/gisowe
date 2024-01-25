@@ -13,8 +13,7 @@ var baseMaps = {
     "Google Terrain": googleTer
 };
 
-
-mape.attributionControl.addAttribution('by Ad F');
+mape.attributionControl.addAttribution('by ad f');
 L.control.scale().addTo(mape);
 L.control.locate({
     position: "topleft",
@@ -26,7 +25,7 @@ L.control.locate({
 
 let embassies;
 let embassiesCluster = L.markerClusterGroup();
-fetch('ambasady.geojson')
+fetch('ambasadywarszawa.geojson')
     .then(response => response.json())
     .then(data => {
         embassies = L.geoJSON(data, {
@@ -48,10 +47,21 @@ fetch('ambasady.geojson')
                 if (feature.properties) {
                     var popupContent = "";
                     var header = "<h3>" + feature.properties.name + "</h3>";
-                    var address = "<p>" + feature.properties.address + "</p>";
+                    var address = feature.properties.address.split(',').join('<br>');
+                    
                     var phone = "<p> <b>tel.:  </b>" + feature.properties.telefon + "</p>";
-                    var mail = "<p> <b>email:  </b>" + feature.properties.email + "</p>";
+
+                    if (feature.properties.email == "-" || feature.properties.email == "brak") {
+                        var mail = "";
+                    } else {
+                    var mail = "<p> <b>email:  </b> <a href = mailto:" + feature.properties.email + ">" + feature.properties.email + "</a></p>";
+                    }
+
+                    if (feature.properties.website == "-" || feature.properties.website == "brak") {
+                        var www = "";
+                    } else {
                     var www = "<p> <b>www:  </b> <a href = " + feature.properties.website + ">" + feature.properties.website + "</a></p>";
+                    }
                     popupContent += header + address + phone + mail + www;
                     layer.bindPopup(popupContent);
                 }
@@ -62,14 +72,19 @@ fetch('ambasady.geojson')
         mape.addLayer(embassiesCluster);
 
         var overlays = {
-            "Ambasady (cluster)": embassiesCluster,
-            "Ambasady (bez cluster)": embassies
+            "Ambasady Warszawa (cluster)": embassiesCluster,
+            "Ambasady Warszawa (bez cluster)": embassies
 
         };
 
-        L.control.layers(baseMaps, overlays).addTo(mape);
+        L.control.layers(baseMaps, overlays, {collapsed: false}).addTo(mape);
+
+
+        mape.addControl(new L.Control.Search({layer: embassiesCluster, propertyName: 'country', initial: false, zoom: 18, marker: false}));
 
     });
+
+
 
 
 

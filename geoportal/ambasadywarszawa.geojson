@@ -32,7 +32,7 @@
           "address": "Altowa 1, 02-386 Warszawa",
           "telefon": "22 824 14 27",
           "website": "http://www.ambasadat.gov.al/poland/",
-          "email": ["embassy.warsaw@mfa.gov.al", "ambasada@albania.waw.pl"]
+          "email": "embassy.warsaw@mfa.gov.al"
         }
       },
       {
@@ -47,7 +47,7 @@
           "country": "Algieria",
           "flag": "flags\\algieria.png",
           "address": "Krasickiego 10, 02-628 Warszawa",
-          "telefon": ["22 617 58 55","22 617 59 31"],
+          "telefon": "22 617 58 55",
           "website": "http://algerianembassy.pl/",
           "email": "warsaw@algerianembassy.pl"
         }
@@ -64,7 +64,7 @@
           "country": "Angola",
           "flag": "flags\\angola.png",
           "address": "Urodzajna 12,\n 02-954 Warszawa",
-          "telefon": ["22 844 09 94","22 844 09 83"],
+          "telefon": "22 844 09 94",
           "website": "https://embangola.pl/",
           "email": "embaixada.polonia@mirex.gov.ao"
         }
@@ -81,7 +81,7 @@
           "country": "Argentyna",
           "flag": "flags\\argentyna.png",
           "address": "Al. Jerozolimskie 123 (10 piętro), 02-017 Warszawa",
-          "telefon": ["22 617 60 28","22 617 60 29"],
+          "telefon": "22 617 60 28",
           "website": "https://epolo.cancilleria.gob.ar/pl",
           "email": "epolo@mrecic.gov.ar"
         }
@@ -98,9 +98,9 @@
           "country": "Armenia",
           "flag": "flags\\armenia.png",
           "address": "Bekasów 50, 02-803 Warszawa",
-          "telefon": ["22 899 09 40-42", "508 878 332"],
+          "telefon": "22 899 09 40-42",
           "website": "https://poland.mfa.am/en/",
-          "email": ["armpolandembassy@mfa.am", "secretariat@armenia.internetdsl.pl"]
+          "email": "armpolandembassy@mfa.am"
         }
       },
       {
@@ -183,7 +183,7 @@
           "country": "Białoruś",
           "flag": "flags\\belarus.png",
           "address": "Wiertnicza 58, 02-952 Warszawa",
-          "telefon": ["22 742 09 90", "22 842 52 02"],
+          "telefon": "22 742 09 90",
           "website": "http://www.poland.mfa.gov.by/",
           "email": "poland@mfa.gov.by"
         }
@@ -302,7 +302,7 @@
           "country": "Kolumbia",
           "flag": "flags\\colombia.png",
           "address": "Zwycięzców 29, 03-936 Warszawa",
-          "telefon": ["22 617 09 73", "22 617 71 57"],
+          "telefon": "22 617 09 73",
           "website": "http://polonia.embajada.gov.co/",
           "email": "evarsovia@cancilleria.gov.co"
         }
@@ -336,7 +336,7 @@
           "country": "Chorwacja",
           "flag": "flags\\croatia.png",
           "address": "Ignacego Krasickiego 25, 02-611 Warszawa",
-          "telefon": ["22 844 23 93", "22 844 39 94"],
+          "telefon": "22 844 23 93",
           "website": "https://mvep.gov.hr/pl/pl",
           "email": "croemb.warszawa@mvep.hr"
         }
@@ -353,7 +353,7 @@
           "country": "Kuba",
           "flag": "flags\\cuba.png",
           "address": "Domaniewska 48 , 00-672 Warszawa",
-          "telefon": ["22 848 17 15", "22 848 22 31"],
+          "telefon": "22 848 17 15",
           "website": "http://misiones.minrex.gob.cu/es/polonia/embajada-de-la-republica-de-cuba-en-polonia",
           "email": "embacuba@embacuba.pl"
         }
@@ -556,7 +556,7 @@
           "name": "Nuncjatura Apostolska",
           "country": "Watykan",
           "flag": "flags\\vatican.png",
-          "address": " Jana Chrystiana Szucha 12, 00-582 Warszawa",
+          "address": "Al. Jana Chrystiana Szucha 12, 00-582 Warszawa",
           "telefon": "22 596 93 20",
           "website": "https://nuncjatura.pl/",
           "email": "nuncjatura@episkopat.pl"
@@ -625,9 +625,9 @@
           "country": "Indonezja",
           "flag": "flags\\indonesia.png",
           "address": "Estońska 3/5, 03-903 Warszawa",
-          "telefon": ["22 617 51 79", "22 617 51 08"],
+          "telefon": "22 617 51 79",
           "website": "https://www.indianembassywarsaw.gov.in/",
-          "email": ["warsawa.kbri@kemlu.go.id", "info@indonesianembassy.pl"]
+          "email": "warsawa.kbri@kemlu.go.id"
         }
       },
       {
@@ -642,7 +642,7 @@
           "country": "Iran",
           "flag": "flags\\iran.png",
           "address": "Królowej Aldony 22, 03-928 Warszawa",
-          "telefon": ["22 617 15 85", "22 617 42 93"],
+          "telefon": "22 617 15 85",
           "website": "https://warsaw.mfa.ir/en",
           "email": "secretary@iranemb.pl"
         }
@@ -659,7 +659,7 @@
           "country": "Irak",
           "flag": "flags\\iraq.png",
           "address": "Dąbrowiecka 9 A, 03-932 Warszawa",
-          "telefon": ["22 617 49 11", "22 617 57 73", "22 617 28 12"],
+          "telefon": "22 617 49 11",
           "website": "https://mofa.gov.iq/warsaw/",
           "email": "-"
         }
@@ -795,7 +795,7 @@
           "country": "Kuwejt",
           "flag": "flags\\kuwait.png",
           "address": "Krasickiego 26, 02-611 Warszawa",
-          "telefon": ["22 419 97 80", "22 419 97 86"],
+          "telefon": "22 419 97 80",
           "website": "-",
           "email": "warsaw@mofa.gov.kw"
         }
@@ -829,7 +829,7 @@
           "country": "Liban",
           "flag": "flags\\lebanon.png",
           "address": "Starościńska 1 B m. 10-11, 02-516 Warszawa",
-          "telefon": ["22 844 50 65", "22 646 35 46"],
+          "telefon": "22 844 50 65",
           "website": "http://pl.lebanon.pl/",
           "email": "embassy@lebanon.com.pl"
         }
@@ -863,7 +863,7 @@
           "country": "Litwa",
           "flag": "flags\\lithuania.png",
           "address": "Al. Ujazdowskie 14, 00-478 Warszawa",
-          "telefon": ["22 625 34 10", "22 625 33 68"],
+          "telefon": "22 625 34 10",
           "website": "https://pl.mfa.lt/pl/pl/",
           "email": "amb.pl@urm.lt"
         }
@@ -914,7 +914,7 @@
           "country": "Malezja",
           "flag": "flags\\malaysia.png",
           "address": "Chmielna 73 (piętro 2.), 00-801 Warsaw",
-          "telefon": ["22 375 99 30", "22 617 44 13"],
+          "telefon": "22 375 99 30",
           "website": "https://www.kln.gov.my/web/pol_warsaw",
           "email": "waw.receptionist@kln.gov.my"
         }
@@ -1066,8 +1066,8 @@
           "name": "Ambasada Federalnej Republiki Nigerii",
           "country": "Nigeria",
           "flag": "flags\\nigeria.png",
-          "address": "Kosiarzy 22 B, C, 02-953 Warszawa",
-          "telefon": ["22 651 53 05", "22 651 53 48"],
+          "address": "Kosiarzy 22 BC, 02-953 Warszawa",
+          "telefon": "22 651 53 05",
           "website": "-",
           "email": "nigeria.warsaw@foreignaffairs.gov.ng"
         }
@@ -1101,7 +1101,7 @@
           "country": "Pakistan",
           "flag": "flags\\pakistan.png",
           "address": "Wiertnicza 63, 02-952 Warszawa",
-          "telefon": ["22 849 48 08", "22 849 49 38"],
+          "telefon": "22 849 48 08",
           "website": "-",
           "email": "parepwarsaw@gmail.com"
         }
@@ -1220,7 +1220,7 @@
           "country": "Rumunia",
           "flag": "flags\\romania.png",
           "address": "Chopina 10, 00-559 Warszawa",
-          "telefon": ["22 628 05 08", "22 621 59 83"],
+          "telefon": "22 628 05 08",
           "website": "https://varsovia.mae.ro/en",
           "email": "varsovia@mae.ro"
         }
@@ -1237,7 +1237,7 @@
           "country": "Rosja",
           "flag": "flags\\russia.png",
           "address": "Belwederska 49, 00-761 Warszawa",
-          "telefon": ["22 621 34 53", "22 621 55 75", "22 621 59 54"],
+          "telefon": "22 621 34 53",
           "website": "https://poland.mid.ru/pl/",
           "email": "rusembpol@mid.ru"
         }
@@ -1305,7 +1305,7 @@
           "country": "Serbia",
           "flag": "flags\\serbia.png",
           "address": "Al. Róż 5, 00-556 Warszawa",
-          "telefon": ["22 628 51 61", "22 625 60 41"],
+          "telefon": "22 628 51 61",
           "website": "http://www.warsaw.mfa.gov.rs/pol/",
           "email": "embassy.warsaw@mfa.rs "
         }
@@ -1339,7 +1339,7 @@
           "country": "Słowenia",
           "flag": "flags\\slovenia.png",
           "address": "Al. Jana Chrystiana Szucha 19 (4. piętro), 00-580 Warszawa",
-          "telefon": ["22 849 82 82", "22 849 84 84"],
+          "telefon": "22 849 82 82",
           "website": "https://www.gov.si/en/representations/embassy-warsaw/",
           "email": "sloembassy.warsaw@gov.si"
         }
@@ -1356,7 +1356,7 @@
           "country": "Republika Południowej Afryki",
           "flag": "flags\\southafrica.png",
           "address": "Koszykowa 54 (6. piętro), 00-675 Warszawa",
-          "telefon": ["22 622 10 05", "22 622 10 31"],
+          "telefon": "22 622 10 05",
           "website": "https://dirco1.azurewebsites.net/warsaw/",
           "email": "warsaw.political@dirco.gov.za"
         }
@@ -1373,7 +1373,7 @@
           "country": "Hiszpania",
           "flag": "flags\\spain.png",
           "address": "Myśliwiecka 4, 00-459 Warszawa",
-          "telefon": ["22 622 42 50", "22 583 40 00", "22 583 40 01"],
+          "telefon": "22 622 42 50",
           "website": "https://www.exteriores.gob.es/Embajadas/varsovia/pl/Embajada/Paginas/Embajador.aspx",
           "email": "emb.varsovia.info@maec.es"
         }
@@ -1441,7 +1441,7 @@
           "country": "Syria",
           "flag": "flags\\syria.png",
           "address": "Świeradowska 38 a, 02-662 Warszawa",
-          "telefon": ["22 849 14 56", "22 848 48 09"],
+          "telefon": "22 849 14 56",
           "website": "-",
           "email": "syrianembwarsaw@gmail.com"
         }
@@ -1458,7 +1458,7 @@
           "country": "Tajlandia",
           "flag": "flags\\thailand.png",
           "address": "Willowa 7, 00-790 Warszawa",
-          "telefon": ["22 849 64 14", "22 849 64 14", "22 849 26 55", "22 849 14 06"],
+          "telefon": "22 849 64 14",
           "website": "https://warsaw.thaiembassy.org/pl/index",
           "email": "contact@thaiemb.pl"
         }
@@ -1475,7 +1475,7 @@
           "country": "Tunezja",
           "flag": "flags\\tunisia.png",
           "address": "Myśliwiecka 14, 00-459 Warszawa",
-          "telefon": ["22 628 63 30", "22 628 25 86"],
+          "telefon": "22 628 63 30",
           "website": "-",
           "email": "at.varsovie@ambtun.pl"
         }
@@ -1492,7 +1492,7 @@
           "country": "Turcja",
           "flag": "flags\\turkey.png",
           "address": "Rakowiecka 19, 02-517 Warszawa",
-          "telefon": ["22 854 61 10", "22 854 61 13", "22 854 61 21"],
+          "telefon": "22 854 61 10",
           "website": "https://warsaw-emb.mfa.gov.tr/Mission",
           "email": "embassy.warsaw@mfa.gov.tr"
         }
@@ -1509,7 +1509,7 @@
           "country": "Ukraina",
           "flag": "flags\\ukraine.png",
           "address": "al. Jana Chrystiana Szucha 7, 00-580 Warszawa",
-          "telefon": ["22 622 15 49", "22 622 47 97"],
+          "telefon": "22 622 15 49",
           "website": "https://poland.mfa.gov.ua/pl",
           "email": "consul_pl@mfa.gov.ua"
         }
@@ -1631,6 +1631,23 @@
           "telefon": "22 617 60 25-26",
           "website": "https://embassy-of-yemen.pl/pl/",
           "email": "office@embassy-of-yemen.pl"
+        }
+      },
+      {
+        "id": "97",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0257547, 52.2243403]
+        },
+        "properties": {
+          "name": "Ambasada Kanady",
+          "country": "Kanada",
+          "flag": "flags\\canada.png",
+          "address": "Jana Matejki 1/5",
+          "telefon": "22 584 31 00",
+          "website": "https://www.international.gc.ca/country-pays/poland-pologne/warsaw-varsovie.aspx?lang=eng",
+          "email": "wsaw@international.gc.ca"
         }
       }
     ]

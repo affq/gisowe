@@ -1,0 +1,293 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "id": "1",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [19.81098267, 41.33119716]
+        },
+        "properties": {
+          "name": "Ambasada Rzeczypospolitej Polskiej w Tiranie",
+          "country": "Albania",
+          "type": "ambasada",
+          "head": "Monika Zuchniak-Pazdan",
+          "position": "Ambasador",
+          "address": "Bogdanëve 50",
+          "postalCode": "1001",
+          "city": "Tirana",
+          "phone": "+355 445 100 20",
+          "phone24": "+355 694 022 011",
+          "website": "https://www.gov.pl/web/albania",
+          "email": "tirana.amb.sekretariat@msz.gov.pl",
+          "additionalInfo": "",
+          "additionalCountries": ""
+        }
+      },
+      {
+        "id": "2",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.0293084, 36.7448257]
+        },
+        "properties": {
+          "name": "Ambasada Rzeczypospolitej Polskiej w Algierskiej Republice Ludowo-Demokratycznej",
+          "country": "Algieria",
+          "type": "ambasada",
+          "head": "Witold Spirydowicz",
+          "position": "Ambasador",
+          "address": "Rue Olof Palme, Nouveau-Paradou",
+          "postalCode": "16-035 Hydra-Algier",
+          "city": "Algier",
+          "phone": "+213 21 609 950",
+          "phone24": "+213 770 696 669",
+          "website": "gov.pl/algieria",
+          "email": "algier.amb.sekretariat@msz.gov.pl",
+          "additionalInfo": "",
+          "additionalCountries": "Niger, Czad"
+        }
+      },
+      {
+        "id": "3",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [1.5233084, 42.5064489]
+        },
+        "properties": {
+          "name": "Konsulat Honorowy Rzeczypospolitej Polskiej w Andorze",
+          "country": "Algieria",
+          "type": "konsulat",
+          "head": "Yolanda Sola Ruiz",
+          "position": "Konsul Honorowy",
+          "address": "Calle Prat de la Creu 59-65, blok A, piętro 5",
+          "postalCode": "500",
+          "city": "Andorra de la Vella",
+          "phone": "+37 688 52 88",
+          "phone24": "",
+          "website": "",
+          "email": "consol@consolatpoloniaandorra.org",
+          "additionalInfo": "Państwo podlega kompetencji terytorialnej Ambasady RP w Madrycie (Hiszpania).",
+          "additionalCountries": ""
+        }
+      },
+      {
+        "id": "4",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [13.2357048, -8.8319889]
+        },
+        "properties": {
+          "name": "Ambasada Rzeczypospolitej Polskiej w Republice Angoli",
+          "country": "Angola",
+          "type": "ambasada",
+          "head": "Piotr Myśliwiec",
+          "position": "Ambasador",
+          "address": "Damião de Góis 64",
+          "postalCode": "CP. 1340",
+          "city": "Luanda",
+          "phone": "+244 222 327 199",
+          "phone24": "+244 943 104 089",
+          "website": "https://www.gov.pl/web/angola",
+          "email": "luanda.amb.sekretariat@msz.gov.pl",
+          "additionalInfo": "",
+          "additionalCountries": "Demokratyczna Republika Konga, Republika Wysp Św. Tomasza i Książęcej, Gabon, Kongo, Republika Środkowoafrykańska"
+        }
+      },
+      {
+        "id": "5",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0720515, 52.1783207]
+        },
+        "properties": {
+          "name": "Konsulat Honorowy Rzeczypospolitej Polskiej w St. John's",
+          "country": "Antigua i Barbuda",
+          "type": "konsulat",
+          "head": "Gregory Francis Georges",
+          "position": "Konsul Honorowy",
+          "address": "West Indies Oil Ltd., Friars Hill Road, P.O. Box 230",
+          "postalCode": "-",
+          "city": "St. John's",
+          "phone": "+1 268 4648 485",
+          "phone24": "",
+          "website": "",
+          "email": "ggeorges@westindiesoil.com",
+          "additionalInfo": "",
+          "additionalCountries": ""
+        }
+      },
+      {
+        "id": "6",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0720515, 52.1783207]
+        },
+        "properties": {
+          "name": "Ambasada Rzeczypospolitej Polskiej w Królestwie Arabii Saudyjskiej",
+          "country": "Arabia Saudyjska",
+          "type": "ambasada",
+          "head": "Robert Rostek",
+          "position": "Ambasador",
+          "address": "Al-Wurud Area, Umar bin Dhafr Street, Villa 20, Rijad 11693, P.O. Box 94016",
+          "postalCode": "94016",
+          "city": "Rijad",
+          "phone": "+966 11 454 92 74",
+          "phone24": "+966 54 880 77 18",
+          "website": "gov.pl/arabiasaudyjska",
+          "email": "rijad.amb.sekretariat@msz.gov.pl",
+          "additionalInfo": "",
+          "additionalCountries": "Jemen, Oman"
+        }
+      },
+      {
+        "id": "7",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0720515, 52.1783207]
+        },
+        "properties": {
+          "name": "Konsulat Honorowy Rzeczypospolitej Polskiej w Dżuddzie",
+          "country": "Arabia Saudyjska",
+          "type": "konsulat",
+          "head": "Szejk Hassan Omar Attar",
+          "position": "Konsul Honorowy",
+          "address": "Safa-Marwa Building, Khalid Bin Walid Street",
+          "postalCode": "21411",
+          "city": "Dżudda",
+          "phone": "+966 12 648 00 33",
+          "phone24": "",
+          "website": "gov.pl/arabiasaudyjska",
+          "email": "attarcojed@gmail.com",
+          "additionalInfo": "",
+          "additionalCountries": ""
+        }
+      },
+      {
+        "id": "8",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0720515, 52.1783207]
+        },
+        "properties": {
+          "name": "Konsulat Honorowy Rzeczypospolitej Polskiej w Rosario",
+          "country": "Argentyna",
+          "type": "konsulat",
+          "head": "Bartłomiej Stanislaw Moszoro",
+          "position": "Konsul Honorowy",
+          "address": "Bv. Oroño 275",
+          "postalCode": "2000",
+          "city": "Rosario",
+          "phone": "+54 34 1425 1964",
+          "phone24": "",
+          "website": "",
+          "email": "bmoszoro@fibertel.com.ar",
+          "additionalInfo": "Konsul Honorowy dla prowincji: Santa Fé, Entre Ríos",
+          "additionalCountries": ""
+        }
+      },
+      {
+        "id": "9",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0720515, 52.1783207]
+        },
+        "properties": {
+          "name": "Ambasada Rzeczypospolitej Polskiej w Republice Argentyńskiej",
+          "country": "Argentyna",
+          "type": "ambasada",
+          "head": "Aleksandra Piątkowska",
+          "position": "Ambasador",
+          "address": "Alejandro Maria de Aguado 2870",
+          "postalCode": "C 1425 CEB",
+          "city": "Buenos Aires",
+          "phone": "+54 11 4808 1700",
+          "phone24": "+54 11 4808 1709",
+          "website": "gov.pl/argentyna",
+          "email": "buenosaires.amb.sekretariat@msz.gov.pl",
+          "additionalInfo": "",
+          "additionalCountries": "Paragwaj, Urugwaj"
+        }
+      },
+      {
+        "id": "10",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0720515, 52.1783207]
+        },
+        "properties": {
+          "name": "Konsulat Honorowy Rzeczypospolitej Polskiej w Obera",
+          "country": "Argentyna",
+          "type": "konsulat",
+          "head": "Miguel Antonio Skowron",
+          "position": "Konsul Honorowy",
+          "address": "Ucrania 734",
+          "postalCode": "N3361DWU",
+          "city": "Oberá",
+          "phone": "+54 37 5540 2507",
+          "phone24": "",
+          "website": "",
+          "email": "consulplobe@yahoo.com.ar",
+          "additionalInfo": "Konsul Honorowy dla prowincji: Misiones, Corrientes, Chaco",
+          "additionalCountries": ""
+        }
+      },
+      {
+        "id": "11",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0720515, 52.1783207]
+        },
+        "properties": {
+          "name": "Ambasada Rzeczypospolitej Polskiej w Republice Armenii",
+          "country": "Armenia",
+          "type": "ambasada",
+          "head": "Piotr Skwieciński",
+          "position": "Ambasador",
+          "address": "Hanrapetutyan 44 a",
+          "postalCode": "0010",
+          "city": "Erywań",
+          "phone": "+374 10 54 24 91",
+          "phone24": "+374 91 42 68 85",
+          "website": "gov.pl/armenia",
+          "email": "erywan.amb.sekretariat@msz.gov.pl",
+          "additionalInfo": "",
+          "additionalCountries": ""
+        }
+      },
+      {
+        "id": "12",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0720515, 52.1783207]
+        },
+        "properties": {
+          "name": "Konsulat Honorowy Rzeczypospolitej Polskiej w Hobart",
+          "country": "Australia",
+          "type": "konsulat",
+          "head": "Ed Kremzer",
+          "position": "Konsul Honorowy",
+          "address": "7 Waverley Ave.",
+          "postalCode": "Mt. Stuart Tasmania 7000",
+          "city": "Hobart",
+          "phone": "+61 3 62281040",
+          "phone24": "+61 417340131",
+          "website": "",
+          "email": "polishconsultas@gmail.com",
+          "additionalInfo": "",
+          "additionalCountries": ""
+        }
+      }
+    ]
+}
