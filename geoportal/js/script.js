@@ -1,4 +1,4 @@
-var mape = L.map('map', {maxZoom:18}).setView([52.02, 20.19], 13);
+var mape = L.map('map', {maxZoom:18}).setView([52.191682, 21.028118], 13);
 
 var OpenStreetMap = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png');
 OpenStreetMap.addTo(mape);
@@ -25,6 +25,7 @@ L.control.locate({
 .addTo(mape);
 
 let embassies;
+let embassiesCluster = L.markerClusterGroup();
 fetch('ambasady.geojson')
     .then(response => response.json())
     .then(data => {
@@ -48,18 +49,28 @@ fetch('ambasady.geojson')
                     var popupContent = "";
                     var header = "<h3>" + feature.properties.name + "</h3>";
                     var address = "<p>" + feature.properties.address + "</p>";
-                    var phone = "<p> <b>tel.:</b>" + feature.properties.telefon + "</p>";
-                    popupContent += header + address + phone;
+                    var phone = "<p> <b>tel.:  </b>" + feature.properties.telefon + "</p>";
+                    var mail = "<p> <b>email:  </b>" + feature.properties.email + "</p>";
+                    var www = "<p> <b>www:  </b> <a href = " + feature.properties.website + ">" + feature.properties.website + "</a></p>";
+                    popupContent += header + address + phone + mail + www;
                     layer.bindPopup(popupContent);
                 }
             }
-        }).addTo(mape);
+        });
+
+        embassiesCluster.addLayer(embassies);
+        mape.addLayer(embassiesCluster);
 
         var overlays = {
-            "Ambasady": embassies
+            "Ambasady (cluster)": embassiesCluster,
+            "Ambasady (bez cluster)": embassies
+
         };
 
         L.control.layers(baseMaps, overlays).addTo(mape);
+
     });
+
+
 
 

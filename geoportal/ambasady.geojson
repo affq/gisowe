@@ -6,7 +6,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0717063, 52.1781326]
+          "coordinates": [21.0720515, 52.1783207]
         },
         "properties": {
           "name": "Ambasada Islamskiej Republiki Afganistanu",
@@ -23,7 +23,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [20.9612554, 52.2011352]
+          "coordinates": [20.96161380, 52.20117141]
         },
         "properties": {
           "name": "Ambasada Republiki Albanii",
@@ -40,7 +40,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0208461, 52.1909945]
+          "coordinates": [ 21.0217855, 52.1910177 ]
         },
         "properties": {
           "name": "Ambasada Algierskiej Republiki Ludowo-Demokratycznej",
@@ -49,7 +49,7 @@
           "address": "Krasickiego 10, 02-628 Warszawa",
           "telefon": ["22 617 58 55","22 617 59 31"],
           "website": "http://algerianembassy.pl/",
-          "email": ["warsaw@algerianembassy.pl", "consular@algerianembassy.pl"]
+          "email": "warsaw@algerianembassy.pl"
         }
       },
       {
@@ -57,7 +57,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0784344, 52.1696669]
+          "coordinates": [21.0791915, 52.1696159]
         },
         "properties": {
           "name": "Ambasada Republiki Angoli",
@@ -74,7 +74,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [20.9908988, 52.2249901]
+          "coordinates": [20.9911761, 52.2249508]
         },
         "properties": {
           "name": "Ambasada Republiki Argentyńskiej",
@@ -91,7 +91,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0201066, 52.149676]
+          "coordinates": [21.02251497, 52.14986655]
         },
         "properties": {
           "name": "Ambasada Republiki Armenii",
@@ -108,7 +108,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [20.9983591, 52.2326855]
+          "coordinates": [20.9995015, 52.2328444]
         },
         "properties": {
           "name": "Ambasada Związku Australijskiego",
@@ -125,7 +125,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0347524, 52.2073723]
+          "coordinates": [21.03584046, 52.20746476]
         },
         "properties": {
           "name": "Ambasada Republiki Austrii",
@@ -142,7 +142,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0531558, 52.2308282]
+          "coordinates": [21.0534702, 52.2307303]
         },
         "properties": {
           "name": "Ambasada Republiki Azerbejdżanu",
@@ -159,7 +159,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0597122, 52.1756675]
+          "coordinates": [21.0778338, 52.1746171]
         },
         "properties": {
           "name": "Ambasada Ludowej Republiki Bangladeszu",
@@ -176,7 +176,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0814255, 52.1718441]
+          "coordinates": [21.0819034, 52.1718136]
         },
         "properties": {
           "name": "Ambasada Republiki Białorusi",
@@ -193,7 +193,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0032928, 52.2436175]
+          "coordinates": [21.0037231, 52.24372]
         },
         "properties": {
           "name": "Ambasada Królestwa Belgii",
@@ -202,7 +202,7 @@
           "address": "Senatorska 34, 00-095 Warszawa",
           "telefon": "22 551 28 00",
           "website": "https://poland.diplomatie.belgium.be/pl",
-          "email": ["warsaw@diplobel.fed.be", "consulate.warsaw@diplobel.fed.be"]
+          "email": "warsaw@diplobel.fed.be"
         }
       },
       {
@@ -210,7 +210,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0027479, 52.1919998]
+          "coordinates": [21.01998655, 52.19354983]
         },
         "properties": {
           "name": "Ambasada Bośni i Hercegowiny",
@@ -227,14 +227,14 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.057048, 52.226682]
+          "coordinates": [21.0574088, 52.2267271]
         },
         "properties": {
           "name": "Ambasada Federacyjnej Republiki Brazylii",
           "country": "Brazylia",
           "flag": "flags\\brazil.png",
           "address": "Bajońska 15, 03-963 Warszawa",
-          "telefon": ["22 617 48 00", "22 617 05 00", "22 617 32 60"],
+          "telefon": "22 617 48 00",
           "website": "https://www.gov.br/mre/pt-br/embaixada-varsovia",
           "email": "brasemb.varsovia@itamaraty.gov.br"
         }
@@ -244,7 +244,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.022838, 52.2250532]
+          "coordinates": [21.0230253, 52.2250688]
         },
         "properties": {
           "name": "Ambasada Republiki Bułgarii",
@@ -261,7 +261,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0620181, 52.1801318]
+          "coordinates": [21.0630020, 52.1803509]
         },
         "properties": {
           "name": "Ambasada Republiki Chile",
@@ -278,7 +278,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0011869, 52.2505911]
+          "coordinates": [21.0016616, 52.2505542]
         },
         "properties": {
           "name": "Ambasada Chińskiej Republiki Ludowej",
@@ -295,7 +295,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0555029, 52.2319653]
+          "coordinates": [21.05652320, 52.23188706]
         },
         "properties": {
           "name": "Ambasada Republiki Kolumbii",
@@ -312,7 +312,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0235981, 52.1322162]
+          "coordinates": [21.02378137, 52.13220551]
         },
         "properties": {
           "name": "Ambasada Demokratycznej Republiki Konga",
@@ -329,7 +329,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0195786, 52.192775]
+          "coordinates": [21.0200841, 52.192881]
         },
         "properties": {
           "name": "Ambasada Republiki Chorwacji",
@@ -346,7 +346,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [20.9964126, 52.1842933]
+          "coordinates": [20.9969715, 52.1839074]
         },
         "properties": {
           "name": "Ambasada Republiki Kuby",
@@ -363,7 +363,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0115159, 52.2011052]
+          "coordinates": [21.0119536, 52.2011420]
         },
         "properties": {
           "name": "Ambasada Republiki Cypryjskiej",
@@ -380,7 +380,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0211954, 52.221882]
+          "coordinates": [21.0206619, 52.2217968]
         },
         "properties": {
           "name": "Ambasada Republiki Czeskiej",
@@ -397,7 +397,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0068325, 52.2380116]
+          "coordinates": [21.0074977, 52.2380966]
         },
         "properties": {
           "name": "Ambasada Królestwa Danii",
@@ -414,7 +414,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.063663, 52.2262612]
+          "coordinates": [21.0646607, 52.2260459]
         },
         "properties": {
           "name": "Ambasada Arabskiej Republiki Egiptu",
@@ -431,7 +431,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [20.9993246, 52.1932192]
+          "coordinates": [20.99991454, 52.19308437]
         },
         "properties": {
           "name": "Ambasada Republiki Estońskiej",
@@ -448,7 +448,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0222766, 52.2229087]
+          "coordinates": [21.0226995, 52.2230743]
         },
         "properties": {
           "name": "Ambasada Republiki Finlandii",
@@ -465,7 +465,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.026008, 52.223983]
+          "coordinates": [21.0273962, 52.2236205]
         },
         "properties": {
           "name": "Ambasada Republiki Francuskiej",
@@ -499,7 +499,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0286307, 52.2235884]
+          "coordinates": [21.0295624, 52.2230901]
         },
         "properties": {
           "name": "Ambasada Republiki Federalnej Niemiec",
@@ -516,7 +516,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.032334, 52.2247266]
+          "coordinates": [21.0326136, 52.2245914]
         },
         "properties": {
           "name": "Ambasada Republiki Greckiej",
@@ -533,7 +533,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0015359, 52.2336531]
+          "coordinates": [21.00187718, 52.23360666]
         },
         "properties": {
           "name": "Ambasada Republiki Gwatemali",
@@ -550,7 +550,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0223345, 52.2149933]
+          "coordinates": [21.0233268, 52.2151194]
         },
         "properties": {
           "name": "Nuncjatura Apostolska",
@@ -567,7 +567,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0149476, 52.2260088]
+          "coordinates": [21.0157499, 52.2259012]
         },
         "properties": {
           "name": "Ambasada Węgier",
@@ -584,7 +584,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0149476, 52.2260088]
+          "coordinates": [21.007808, 52.2179107]
         },
         "properties": {
           "name": "Ambasada Republiki Islandii",
@@ -601,7 +601,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0375665, 52.217741]
+          "coordinates": [21.03831128, 52.21759505]
         },
         "properties": {
           "name": "Ambasada Republiki Indii",
@@ -618,7 +618,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0475352, 52.2365455]
+          "coordinates": [21.0482851, 52.2364096]
         },
         "properties": {
           "name": "Ambasada Republiki Indonezji",
@@ -635,7 +635,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0554148, 52.2344348]
+          "coordinates": [21.0559131, 52.2343774]
         },
         "properties": {
           "name": "Ambasada Islamskiej Republiki Iranu",
@@ -652,7 +652,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0486406, 52.2324008]
+          "coordinates": [21.0501729, 52.2317449]
         },
         "properties": {
           "name": "Ambasada Republiki Iraku",
@@ -669,7 +669,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.019415, 52.2301978]
+          "coordinates": [21.020088, 52.2302327]
         },
         "properties": {
           "name": "Ambasada Irlandii",
@@ -686,7 +686,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [20.9989882, 52.2186449]
+          "coordinates": [21.0001860, 52.2184121]
         },
         "properties": {
           "name": "Ambasada Państwa Izrael",
@@ -703,7 +703,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0087264, 52.2373031]
+          "coordinates": [21.0100524, 52.2372530]
         },
         "properties": {
           "name": "Ambasada Republiki Włoskiej",
@@ -720,7 +720,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0393543, 52.2172707]
+          "coordinates": [21.0408973, 52.2174603]
         },
         "properties": {
           "name": "Ambasada Japonii",
@@ -737,7 +737,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0759008, 52.1688772]
+          "coordinates": [21.07746123, 52.16894185]
         },
         "properties": {
           "name": "Ambasada Republiki Kazachstanu",
@@ -754,7 +754,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0759008, 52.1688772]
+          "coordinates": [21.0459061, 52.1961568]
         },
         "properties": {
           "name": "Ambasada Koreańskiej Republiki Ludowo-Demokratycznej",
@@ -771,7 +771,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0411791, 52.2168205]
+          "coordinates": [21.0418530, 52.2169250]
         },
         "properties": {
           "name": "Ambasada Republiki Korei",
@@ -788,7 +788,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0198823, 52.1948935]
+          "coordinates": [21.0202589, 52.1947386]
         },
         "properties": {
           "name": "Ambasada Państwa Kuwejt",
@@ -805,7 +805,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0542097, 52.2342333]
+          "coordinates": [21.0554366, 52.2338301]
         },
         "properties": {
           "name": "Ambasada Republiki Łotewskiej",
@@ -822,7 +822,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0147812, 52.2075526]
+          "coordinates": [21.0162095, 52.2075018]
         },
         "properties": {
           "name": "Ambasada Republiki Libańskiej",
@@ -839,7 +839,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0179249, 52.1376134]
+          "coordinates": [21.0283198, 52.1376687]
         },
         "properties": {
           "name": "Ambasada Państwa Libia",
@@ -856,7 +856,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0233794, 52.2258169]
+          "coordinates": [21.02396007, 52.22573550]
         },
         "properties": {
           "name": "Ambasada Republiki Litewskiej",
@@ -873,7 +873,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.023249, 52.2077308]
+          "coordinates": [21.02540996, 52.20703422]
         },
         "properties": {
           "name": "Ambasada Wielkiego Księstwa Luksemburga",
@@ -890,7 +890,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0721007, 52.17251]
+          "coordinates": [21.0734232, 52.1729108]
         },
         "properties": {
           "name": "Ambasada Republiki Macedonii Północnej",
@@ -907,7 +907,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [20.9960044, 52.2282292]
+          "coordinates": [20.9975762, 52.2283616]
         },
         "properties": {
           "name": "Ambasada Malezji",
@@ -924,7 +924,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0048682, 52.206885]
+          "coordinates": [ 21.0152093, 52.2070785 ] 
         },
         "properties": {
           "name": "Ambasada Republiki Malty",
@@ -941,7 +941,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [20.9908541, 52.2245148]
+          "coordinates": [20.9915152, 52.2248485]
         },
         "properties": {
           "name": "Ambasada Meksykańskich Stanów Zjednoczonych",
@@ -966,8 +966,8 @@
           "flag": "flags\\moldova.png",
           "address": "Imielińska 1, 02-710 Warszawa",
           "telefon": "22 646 20 99",
-          "website": "varsovia@mfa.gov.md",
-          "email": "info@emexico.pl"
+          "website": "https://polonia.mfa.gov.md/",
+          "email": "varsovia@mfa.gov.md"
         }
       },
       {
@@ -975,7 +975,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0074876, 52.2072974]
+          "coordinates": [21.0179279, 52.207314]
         },
         "properties": {
           "name": "Ambasada Mongolii",
@@ -992,7 +992,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0128903, 52.2261817]
+          "coordinates": [21.02322083, 52.22612951]
         },
         "properties": {
           "name": "Ambasada Czarnogóry",
@@ -1009,7 +1009,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0014571, 52.2009811]
+          "coordinates": [21.0116952, 52.2010147]
         },
         "properties": {
           "name": "Ambasada Królestwa Marokańskiego",
@@ -1026,7 +1026,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0306435, 52.2183662]
+          "coordinates": [21.0413197, 52.2185041]
         },
         "properties": {
           "name": "Ambasada Królestwa Niderlandów",
@@ -1043,7 +1043,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0211444, 52.2279206]
+          "coordinates": [21.0228677, 52.2274779]
         },
         "properties": {
           "name": "Ambasada Nowej Zelandii",
@@ -1060,7 +1060,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0695115, 52.1710558]
+          "coordinates": [21.0797470, 52.1710177]
         },
         "properties": {
           "name": "Ambasada Federalnej Republiki Nigerii",
@@ -1077,7 +1077,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [20.9975104, 52.2182127]
+          "coordinates": [21.0078528, 52.2181635]
         },
         "properties": {
           "name": "Ambasada Królestwa Norwegii",
@@ -1094,7 +1094,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.071028, 52.1712101]
+          "coordinates": [21.0813798, 52.1710438]
         },
         "properties": {
           "name": "Ambasada Islamskiej Republiki Pakistanu",
@@ -1111,7 +1111,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0275397, 52.1884212]
+          "coordinates": [21.0330554, 52.1885339]
         },
         "properties": {
           "name": "Ambasada Palestyny",
@@ -1128,7 +1128,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0650812, 52.1723634]
+          "coordinates": [21.07537617, 52.17234945]
         },
         "properties": {
           "name": "Ambasada Republiki Panamy",
@@ -1145,7 +1145,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0065728, 52.2075588]
+          "coordinates": [21.0171606, 52.2076144]
         },
         "properties": {
           "name": "Ambasada Republiki Peru",
@@ -1162,7 +1162,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0743231, 52.1726543]
+          "coordinates": [21.0766281, 52.1728754]
         },
         "properties": {
           "name": "Ambasada Republiki Filipin",
@@ -1179,7 +1179,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0559777, 52.2245884]
+          "coordinates": [21.066264, 52.2245727]
         },
         "properties": {
           "name": "Ambasada Republiki Portugalskiej",
@@ -1196,7 +1196,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0147661, 52.2294949]
+          "coordinates": [21.0251549, 52.2294944]
         },
         "properties": {
           "name": "Ambasada Państwa Katar",
@@ -1213,7 +1213,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0195112, 52.2237398]
+          "coordinates": [21.0219296, 52.2229481]
         },
         "properties": {
           "name": "Ambasada Rumunii",
@@ -1230,7 +1230,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0239899, 52.2105483]
+          "coordinates": [21.0265376, 52.2104683]
         },
         "properties": {
           "name": "Ambasada Federacji Rosyjskiej",
@@ -1247,13 +1247,13 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [20.9978415, 52.1953378]
+          "coordinates": [21.0003902, 52.1953228]
         },
         "properties": {
           "name": "Ambasada Republiki Rwandy",
           "country": "Rwanda",
           "flag": "flags\\rwanda.png",
-          "address": "Karwińskiej 21, 02-639 Warszawa",
+          "address": "Karwińska 21, 02-639 Warszawa",
           "telefon": "22 102 65 70",
           "website": "https://www.rwandainpoland.gov.rw/pl",
           "email": "ambawarsaw@minaffet.gov.rw"
@@ -1264,7 +1264,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0817184, 52.1693852]
+          "coordinates": [21.0842513, 52.1693741]
         },
         "properties": {
           "name": "Ambasada Królestwa Arabii Saudyjskiej",
@@ -1281,7 +1281,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0875694, 52.1677173]
+          "coordinates": [21.0845373, 52.1750241]
         },
         "properties": {
           "name": "Ambasada Republiki Senegalu",
@@ -1298,7 +1298,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0197479, 52.2216932]
+          "coordinates": [21.0223457, 52.2216245]
         },
         "properties": {
           "name": "Ambasada Republiki Serbii",
@@ -1315,7 +1315,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0196321, 52.2168629]
+          "coordinates": [21.0221807, 52.2168202]
         },
         "properties": {
           "name": "Ambasada Republiki Słowackiej",
@@ -1332,7 +1332,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0215579, 52.2159126]
+          "coordinates": [21.0226836, 52.2161857]
         },
         "properties": {
           "name": "Ambasada Republiki Słowenii",
@@ -1349,7 +1349,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.010602, 52.2230736]
+          "coordinates": [21.0131204, 52.2232488]
         },
         "properties": {
           "name": "Ambasada Republiki Południowej Afryki",
@@ -1366,7 +1366,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0354843, 52.2184436]
+          "coordinates": [21.0381533, 52.2184805]
         },
         "properties": {
           "name": "Ambasada Królestwa Hiszpanii",
@@ -1383,7 +1383,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0110205, 52.1816625]
+          "coordinates": [21.0846411, 52.1705509]
         },
         "properties": {
           "name": "Ambasada Demokratyczno-Socjalistycznej Republiki Sri Lanki",
@@ -1400,7 +1400,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0227364, 52.2135136]
+          "coordinates": [21.0252686, 52.2132845]
         },
         "properties": {
           "name": "Ambasada Królestwa Szwecji",
@@ -1417,7 +1417,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.020989, 52.2240709]
+          "coordinates": [21.0233779, 52.2240659]
         },
         "properties": {
           "name": "Ambasada Konfederacji Szwajcarskiej",
@@ -1434,7 +1434,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0157721, 52.177668]
+          "coordinates": [21.0184025, 52.1776341]
         },
         "properties": {
           "name": "Ambasada Syryjskiej Republiki Arabskiej",
@@ -1451,16 +1451,186 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [21.0157721, 52.177668]
+          "coordinates": [21.02404298, 52.20715268]
         },
         "properties": {
-          "name": "Ambasada Syryjskiej Republiki Arabskiej",
-          "country": "Syria",
-          "flag": "flags\\austria.png",
-          "address": "Świeradowska 38 a, 02-662 Warszawa",
-          "telefon": ["22 849 14 56", "22 848 48 09"],
+          "name": "Ambasada Królestwa Tajlandii",
+          "country": "Tajlandia",
+          "flag": "flags\\thailand.png",
+          "address": "Willowa 7, 00-790 Warszawa",
+          "telefon": ["22 849 64 14", "22 849 64 14", "22 849 26 55", "22 849 14 06"],
+          "website": "https://warsaw.thaiembassy.org/pl/index",
+          "email": "contact@thaiemb.pl"
+        }
+      },
+      {
+        "id": "87",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.03214929, 52.22392484]
+        },
+        "properties": {
+          "name": "Ambasada Republiki Tunezyjskiej",
+          "country": "Tunezja",
+          "flag": "flags\\tunisia.png",
+          "address": "Myśliwiecka 14, 00-459 Warszawa",
+          "telefon": ["22 628 63 30", "22 628 25 86"],
           "website": "-",
-          "email": "syrianembwarsaw@gmail.com"
+          "email": "at.varsovie@ambtun.pl"
+        }
+      },
+      {
+        "id": "88",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0167785, 52.2088629]
+        },
+        "properties": {
+          "name": "Ambasada Republiki Turcji",
+          "country": "Turcja",
+          "flag": "flags\\turkey.png",
+          "address": "Rakowiecka 19, 02-517 Warszawa",
+          "telefon": ["22 854 61 10", "22 854 61 13", "22 854 61 21"],
+          "website": "https://warsaw-emb.mfa.gov.tr/Mission",
+          "email": "embassy.warsaw@mfa.gov.tr"
+        }
+      },
+      {
+        "id": "89",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.02205219, 52.21494198]
+        },
+        "properties": {
+          "name": "Ambasada Ukrainy",
+          "country": "Ukraina",
+          "flag": "flags\\ukraine.png",
+          "address": "al. Jana Chrystiana Szucha 7, 00-580 Warszawa",
+          "telefon": ["22 622 15 49", "22 622 47 97"],
+          "website": "https://poland.mfa.gov.ua/pl",
+          "email": "consul_pl@mfa.gov.ua"
+        }
+      },
+      {
+        "id": "90",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0039142, 52.2302445]
+        },
+        "properties": {
+          "name": "Ambasada Państwa Zjednoczonych Emiratów Arabskich",
+          "country": "Zjednoczone Emiraty Arabskie",
+          "flag": "flags\\uae.png",
+          "address": "Złota 59 (19. piętro), 00-120 Warszawa",
+          "telefon": "22 222 20 20",
+          "website": "https://www.mofa.gov.ae/en/Missions/Warsaw",
+          "email": "warsawemb@mofaic.gov.ae"
+        }
+      },
+      {
+        "id": "91",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0398236, 52.2185332]
+        },
+        "properties": {
+          "name": "Ambasada Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej",
+          "country": "Wielka Brytania",
+          "flag": "flags\\uk.png",
+          "address": "Kawalerii 12, 00-468 Warszawa",
+          "telefon": "22 311 00 00",
+          "website": "https://www.gov.uk/world/organisations/british-embassy-warsaw.pl",
+          "email": "info@britishembassy.pl"
+        }
+      },
+      {
+        "id": "92",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0226527, 52.2242638]
+        },
+        "properties": {
+          "name": "Ambasada Stanów Zjednoczonych Ameryki",
+          "country": "Stany Zjednoczone",
+          "flag": "flags\\usa.png",
+          "address": "Al. Ujazdowskie 29/31, 00-540 Warszawa",
+          "telefon": "22 504 20 00",
+          "website": "https://pl.usembassy.gov/pl/",
+          "email": "-"
+        }
+      },
+      {
+        "id": "93",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0239603, 52.1506608]
+        },
+        "properties": {
+          "name": "Ambasada Republiki Uzbekistanu",
+          "country": "Uzbekistan",
+          "flag": "flags\\uzbekistan.png",
+          "address": "Kraski 21, 02-804 Warszawa",
+          "telefon": "22 894 62 30",
+          "website": "http://www.uzbekistan.pl/",
+          "email": "pl.uzembassy@mfa.uz"
+        }
+      },
+      {
+        "id": "94",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0179425, 52.2071942]
+        },
+        "properties": {
+          "name": "Ambasada Boliwariańskiej Republiki Wenezueli",
+          "country": "Wenezuela",
+          "flag": "flags\\venezuela.png",
+          "address": "Rejtana 15 m. 20-21, 02-516 Warszawa",
+          "telefon": "22 646 18 46",
+          "website": "https://www.venez.pl/language/pl/",
+          "email": "embajada@venez.pl"
+        }
+      },
+      {
+        "id": "95",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0671588, 52.1731103]
+        },
+        "properties": {
+          "name": "Ambasada Socjalistycznej Republiki Wietnamu",
+          "country": "Wietnam",
+          "flag": "flags\\vietnam.png",
+          "address": "Resorowa 36, 02-956 Warszawa",
+          "telefon": "22 651 60 98",
+          "website": "https://vnembassy-warsaw.mofa.gov.vn/en-us/Pages/default.aspx",
+          "email": "vnemb.pl@mofa.gov.vn"
+        }
+      },
+      {
+        "id": "96",
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.0738537, 52.1744809]
+        },
+        "properties": {
+          "name": "Ambasada Republiki Jemeńskiej",
+          "country": "Wietnam",
+          "flag": "flags\\yemen.png",
+          "address": "Królewicza Jakuba 54, 02-956 Warszawa",
+          "telefon": "22 617 60 25-26",
+          "website": "https://embassy-of-yemen.pl/pl/",
+          "email": "office@embassy-of-yemen.pl"
         }
       }
     ]
