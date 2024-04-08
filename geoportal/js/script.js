@@ -13,7 +13,9 @@ var baseMaps = {
     "Google Terrain": googleTer
 };
 
-mape.attributionControl.addAttribution('by ad f');
+var attributionText = '<a href="https://github.com/affq">ad f</a>';
+
+mape.attributionControl.addAttribution(attributionText);
 L.control.scale().addTo(mape);
 L.control.locate({
     position: "topleft",
