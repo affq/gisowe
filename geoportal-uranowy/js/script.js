@@ -10,11 +10,11 @@ var uranLayer = L.Geoserver.wms('http://localhost:8080/geoserver/wms', {
 
 uranLayer.addTo(map);
 
-var citiesLayer = L.Geoserver.wfs('http://localhost:8080/geoserver/wfs', {
-    layers: "miasta:miasta"
-})
+// var citiesLayer = L.Geoserver.wfs('http://localhost:8080/geoserver/wfs', {
+//     layers: "miasta:miasta"
+// })
 
-citiesLayer.addTo(map);
+// citiesLayer.addTo(map);
 
 
 var legend = L.control({position: 'topright'});
@@ -26,7 +26,3 @@ legend.onAdd = function (map) {
 
 legend.addTo(map);
 
-map.on('click', function(e) {
-    request = 'http://localhost:8080/geoserver/wfs?service=WFS&version=1.0.0&request=GetFeatureInfo&layers=uran:uran&styles=style&crs=EPSG:2180&bbox=' + map.getBounds().toBBoxString() + '&width=768&height=330&query_layers=uran:uran&x=' + e.containerPoint.x + '&y=' + e.containerPoint.y + '&info_format=application/json';
-    
-});
