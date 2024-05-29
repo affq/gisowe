@@ -1,7 +1,7 @@
 var map = L.map('map').setView([52.058654, 19.633047], 6);
 
 L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: ''
+    attribution: 'Państwowy Instytut Geologiczny'
 }).addTo(map);
 
 var uranLayer = L.Geoserver.wms('http://localhost:8080/geoserver/wms', {
@@ -10,12 +10,11 @@ var uranLayer = L.Geoserver.wms('http://localhost:8080/geoserver/wms', {
 
 uranLayer.addTo(map);
 
-// var citiesLayer = L.Geoserver.wfs('http://localhost:8080/geoserver/wfs', {
-//     layers: "miasta:miasta"
-// })
+var citiesLayer = L.Geoserver.wfs('http://localhost:8080/geoserver/wfs', {
+    layers: "miasta:miasta"
+})
 
-// citiesLayer.addTo(map);
-
+citiesLayer.addTo(map);
 
 var legend = L.control({position: 'topright'});
 legend.onAdd = function (map) {
@@ -25,4 +24,50 @@ legend.onAdd = function (map) {
 };
 
 legend.addTo(map);
+
+function parseFeatureInfo(data) {
+    return data;
+}
+
+map.on('click', function(e) {
+    var url = getFeatureInfoUrl(e.latlng);
+
+    fetch(url)
+        .then(response => response.text())
+        .then(data => {
+            var content = parseFeatureInfo(data);
+            L.popup()
+                .setLatLng(e.latlng)
+                .setContent(content)
+                .openOn(map);
+        })
+        .catch(error => {
+            console.error('Error fetching GetFeatureInfo:', error);
+        });
+});
+
+function getFeatureInfoUrl(latlng) {
+    var point = map.latLngToContainerPoint(latlng, map.getZoom());
+    var size = map.getSize();
+
+    var params = {
+        request: 'GetFeatureInfo',
+        service: 'WMS',
+        srs: 'EPSG:4326',
+        styles: '',
+        transparent: true,
+        version: '1.1.1',
+        format: 'image/png',
+        bbox: map.getBounds().toBBoxString(),
+        height: size.y,
+        width: size.x,
+        layers: 'uran:uran',
+        query_layers: 'uran:uran',
+        info_format: 'text/html',
+        x: Math.floor(point.x),
+        y: Math.floor(point.y)
+    };
+
+    return 'http://localhost:8080/geoserver/wms' + L.Util.getParamString(params, 'http://localhost:8080/geoserver/wms', true);
+}
 

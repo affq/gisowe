@@ -8,7 +8,7 @@ L.Geoserver = L.FeatureGroup.extend({
       zIndex: 1000,
       version: "",
       srsname: "EPSG:4326",
-      attribution: `layer`,
+      attribution: ``,
       fitLayer: true,
       style: "",
       onEachFeature: function (feature, layer) {},
